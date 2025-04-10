@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Etimology
+comment1.params=s\ k
+comment1.target=java.lang.String\ nuevaPalabra(java.lang.String,\ int)
+comment2.params=s\ k\ pos\ res
+comment2.target=java.lang.String\ nuevaPalabra(java.lang.String,\ int,\ int,\ java.lang.String)
+numComments=3
